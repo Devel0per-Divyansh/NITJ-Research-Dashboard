@@ -264,3 +264,5 @@ Contributions are welcome! Please follow these steps:
 **Last Updated**: November 27, 2025  
 **Developed by**: WDMC, NIT Jalandhar  
 **© 2025 NIT Jalandhar. All rights reserved.**
+# Disclaimer :
+It is totally based on dummy data not matches with the exact data of NIT Jalandhar 
