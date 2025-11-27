@@ -4,7 +4,7 @@ A comprehensive and interactive research analytics platform designed to showcase
 
 ## 🎯 Overview
 
-The NIT Jalandhar Research Dashboard is a modern, responsive web application that provides insights into the institute's research landscape across 9 engineering domains. It features real-time statistics, searchable research papers, faculty profiles, student achievements, and detailed analytics.
+The NIT Jalandhar Research Dashboard is a modern, responsive web application that provides insights into the institute's research landscape across 10+ engineering domains. It features real-time statistics, searchable research papers, faculty profiles, student achievements, and detailed analytics.
 
 ## ✨ Key Features
 
