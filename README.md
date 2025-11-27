@@ -28,8 +28,8 @@ The NIT Jalandhar Research Dashboard is a modern, responsive web application tha
 5. **Chemical Engineering** - Process Design, Nanotechnology, Biochemical
 6. **Information Technology** - Cloud Computing, IoT, Blockchain
 7. **Electrical Engineering** - Power Systems, Renewable Energy, Control
-8. **Biotechnology** - Genetic Engineering, Biomedicine, Bioinformatics
 9. **Mathematics & Computing** - Applied Math, Computational Math, Algorithms
+9. **Other** - all other domains 
 
 ### 👥 Faculty Directory
 - Detailed faculty profiles with qualifications
@@ -209,11 +209,11 @@ Update stat card values in the stats-grid section of HTML.
 
 ## 📄 License
 
-This project is licensed under the MIT License - see LICENSE file for details.
+No License
 
 ## 👥 Contributors
 
-- Website Development and Management Committee (WDMC), NIT Jalandhar
+- Batchmates CSE
 - Faculty of Research and Innovation
 - Department of Computer Science & Engineering
 
@@ -235,34 +235,18 @@ Contributions are welcome! Please follow these steps:
 - 🌐 [Visit Website](https://www.nitj.ac.in)
 
 **Social Media**
-- 📘 [Facebook](https://facebook.com/nitjalandhar)
-- 📷 [Instagram](https://instagram.com/nitjalandhar)
-- 🐦 [Twitter](https://twitter.com/nitjalandhar)
-- 💼 [LinkedIn](https://linkedin.com/school/nitjalandhar)
-- 📺 [YouTube](https://youtube.com/@nitjalandhar)
+- 📘 [Facebook](https://www.facebook.com/NITJofficial)
+- 📷 [Instagram](https://www.instagram.com/nitjofficial/)
+- 🐦 [Twitter](https://twitter.com/NITJofficial)
+- 💼 [LinkedIn](https://in.linkedin.com/school/dr-b-r-ambedkar-national-institute-of-technology-jalandhar-official/)
+- 📺 [YouTube](https://www.youtube.com/c/NITJOfficial)
 
-## 📋 Changelog
 
-### Version 1.0.0 (2025-11-27)
-- Initial release
-- Core dashboard functionality
-- 9 engineering domains
-- Faculty directory
-- Student achievements showcase
-- Dark mode support
-- Mobile responsive design
-
-## 🙏 Acknowledgments
-
-- Dr. B.R. Ambedkar's vision for technical education
-- NIT Jalandhar administration and faculty
-- Web Development and Management Committee
-- All contributing researchers and students
 
 ---
 
 **Last Updated**: November 27, 2025  
-**Developed by**: WDMC, NIT Jalandhar  
+**Developed by**: Divyansh Singh, NIT Jalandhar  
 **© 2025 NIT Jalandhar. All rights reserved.**
 # Disclaimer :
 It is totally based on dummy data not matches with the exact data of NIT Jalandhar 
