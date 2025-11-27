@@ -68,11 +68,6 @@ The NIT Jalandhar Research Dashboard is a modern, responsive web application tha
 
 ```
 ├── index.html              # Main HTML file
-├── styles/
-│   └── (embedded in HTML)
-├── scripts/
-│   └── (embedded in HTML)
-└── README.md               # This file
 ```
 
 ## 🚀 Getting Started
@@ -80,23 +75,6 @@ The NIT Jalandhar Research Dashboard is a modern, responsive web application tha
 ### Prerequisites
 - Modern web browser (Chrome, Firefox, Safari, Edge)
 - No server setup required
-
-### Installation
-
-1. **Clone or download the repository**
-```bash
-git clone https://github.com/yourusername/nit-research-dashboard.git
-cd nit-research-dashboard
-```
-
-2. **Open in browser**
-```bash
-# Simply open the HTML file
-open index.html
-# Or use a local server
-python -m http.server 8000
-# Then visit http://localhost:8000
-```
 
 ## 📖 Usage
 
